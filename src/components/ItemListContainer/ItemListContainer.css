@@ -1,0 +1,25 @@
+
+.card{
+    margin: 20px;
+    padding: 10px;
+    background-color: #7E303C;
+    width: 250px;
+    border-radius: 2rem;
+}
+
+.card-button{
+    background-color: transparent;
+    border: solid 2px;
+    font-size: 1rem;
+    color: wheat ;
+}
+
+.container-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.title{
+    margin: 10px;
+}
